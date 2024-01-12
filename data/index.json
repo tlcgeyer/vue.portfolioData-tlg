@@ -1,15 +1,15 @@
 {
-    "educations" : [
+    "education" : [
         {
             "id" : 1,
             "year" : 2021,
-            "description" : "Matriculated from Pacaltsdorp Secondary School.",
+            "info" : "Matriculated from Pacaltsdorp Secondary School.",
             "image" : "https://i.ibb.co/68Yb0rq/pacaltsdorp-logo.jpg"
         },
         {
             "id" : 2,
             "year" : 2023,
-            "description" : "Currently still attending the coding Bootcamp at Life Choices Academy.",
+            "info" : "Currently still attending the coding Bootcamp at Life Choices Academy.",
             "image" : "https://i.ibb.co/vXmJ1Cm/life.jpg"
         }
     ],
@@ -32,7 +32,7 @@
             "id" : 3,
             "language": "Bootstrap",
             "level" : "Advanced",
-            "experience":"I had mixed feelings about Bootstrap the first time I began to learn about it but the more projects we began to do with less then enough time, I realized how convenient and easy to use it was. It saves you so much more time when it comes to designing your projects but it has limited uses compared to CSS.",
+            "comment":"I had mixed feelings about Bootstrap the first time I began to learn about it but the more projects we began to do with less then enough time, I realized how convenient and easy to use it was. It saves you so much more time when it comes to designing your projects but it has limited uses compared to CSS.",
             "image" : "https://i.ibb.co/yBr974Q/Boot.png"
         },
         {
