@@ -1,16 +1,16 @@
 {
-    "education" : [
+    "educations" : [
         {
             "id" : 1,
             "year" : 2021,
             "description" : "Matriculated from Pacaltsdorp Secondary School.",
-            "image" : "https://drive.google.com/uc?id=1lVV1jd-Y8Dc9yNF07UYtaiVIQCWya5ov"
+            "image" : "https://i.ibb.co/68Yb0rq/pacaltsdorp-logo.jpg"
         },
         {
             "id" : 2,
             "year" : 2023,
             "description" : "Currently still attending the coding Bootcamp at Life Choices Academy.",
-            "image" : "https://drive.google.com/uc?id=1bnqkIRkf_WOqHjK_KZf2jDguyh8vy7Kv"
+            "image" : "https://i.ibb.co/vXmJ1Cm/life.jpg"
         }
     ],
     "skills" : [
@@ -19,35 +19,35 @@
             "language" : "HTML",
             "level": "Advanced",
             "comment" : "Was very easy and simple to learn. Having prior knowledge on the MarkUp language before I actually began my role as an aspiring full-stack developer was also very helpful.",
-            "image" : "https://drive.google.com/uc?id=1VHnFePhLT4Aj73EY5v-i7ZcHP4VyaIr2"
+            "image" : "https://i.ibb.co/3fD9S97/Html.jpg"
         },
         {
             "id": 2,
             "language" : "CSS",
             "level": "Advanced",
             "comment":"The more I got to learn about css, the more I fell in love with the style language. I like how I can design my projects just to my exact liking, as how I have planned it. Its versatile and accompanies all sorts of designs for one to try to experiment with.",
-            "image" : "https://drive.google.com/uc?id=1H5qUXWtF8VW4FCMkUD49Rg6fDVk3mW-I"
+            "image" : "https://i.ibb.co/9W4PXJy/CSS3-logo-svg.png"
         },
         {
             "id" : 3,
             "language": "Bootstrap",
             "level" : "Advanced",
             "experience":"I had mixed feelings about Bootstrap the first time I began to learn about it but the more projects we began to do with less then enough time, I realized how convenient and easy to use it was. It saves you so much more time when it comes to designing your projects but it has limited uses compared to CSS.",
-            "image" : "https://drive.google.com/uc?id=1nqqeAYUZgBRZqWlUBLNtmLlNeniJPIwP"
+            "image" : "https://i.ibb.co/yBr974Q/Boot.png"
         },
         {
             "id" : 4,
             "language":  "JavaScript ",
             "level" : "Advanced",
             "comment" : "Javascript is honestly amazing in its self, with the previous languages you can build a website but Javascript just adds that special touch that makes it functional and really interactive like its bringing it to life. Was not easy to learn but I like challenging myself and Js was my biggest so far. Its really versatile and one could basically develop anything with the programming language itself!  ",
-            "image" : "https://drive.google.com/uc?id=1mwMo4khALLd2JBmA-LGIat8dD8hCr8Nw"
+            "image" : "https://i.ibb.co/dccBvtq/Unofficial-Java-Script-logo-2-svg.png"
         },
         {
             "id" : 5,
             "language" : "Vue" ,
             "level" : "Beginner" ,
             "comment" : "I do not have much to say about the javascript framework as I am still a beginner that it takes a while to understand the concepts besides other frameworks because the information that will be placed need to be in separate folders and be linked and called from other folders.",
-            "image" : "https://drive.google.com/uc?id=1utclJOL8rjhHUyGyLH4EiWxq9TvFSUig"
+            "image" : "https://i.ibb.co/nC8pckQ/vuee.jpg"
 
         }
     ],
@@ -56,7 +56,7 @@
             "id" : 1,
             "name" : "INKWHIRLWIND",
             "description" : "My first Javascript E-commerce Manga Store.",
-            "image" : "https://drive.google.com/uc?id=1cZWbqC-rYKYP8_FhRIiJpYDxcfo6hRQd" ,
+            "image" : "https://i.ibb.co/dr3NN4h/logo-For-WEbsite.png" ,
             "github" : "https://github.com/tlcgeyer/js-EOMP.git",
             "netlify" : "https://main--js-eomp-by-tlcg.netlify.app/"
         },
@@ -64,7 +64,7 @@
             "id" : 2,
             "name" : "Calculate the Area of the Triangle",
             "description" : "A Javascript calculator used to calculate the area of a triangle.",
-            "image" : "https://drive.google.com/uc?id=15dfbYsrx8Ql37SOl-l3vbYvFU_WMJAdy" ,
+            "image" : "https://i.ibb.co/cCKX92q/area-of-the-triangle.png" ,
             "github" : "https://github.com/tlcgeyer/js-areaOfTriangle.git",
             "netlify" : "https://js-calculate-the-area-by-tlg.netlify.app/"
         },
@@ -72,7 +72,7 @@
             "id" : 3,
             "name" : "To-do List",
             "description" : "A Javascript to-do list",
-            "image" : "https://drive.google.com/uc?id=1FjB9KqOKdRX5KNoWYnVL3N40DaybvUYE" ,
+            "image" : "https://i.ibb.co/yWxxdVF/to-do-list-1.png" ,
             "github" : "https://github.com/tlcgeyer/to-doList.git",
             "netlify" : "https://js-to-do-list-by-tlg.netlify.app/"
         },
@@ -80,7 +80,7 @@
             "id" : 4,
             "name" : "addUp",
             "description" : "A list of numbers that are added up by comma.",
-            "image" : "https://drive.google.com/uc?id=1jZPFdZ1dNzzHZgTyvaDBAB5HmCli1HLW" ,
+            "image" : "https://i.ibb.co/RN6xcvn/add-up-the-numbers.png" ,
             "github" : "https://github.com/tlcgeyer/js-areaOfTriangle.git",
             "netlify" : "https://js-add-up-by-tlg.netlify.app/"
         },
@@ -88,7 +88,7 @@
             "id" : 5,
             "name" : "Body Mass Index Calculator",
             "description" : "A bmi calculator that calculates your weight and height, lets you know on a scale how 'healthy' you are.",
-            "image" : "https://drive.google.com/uc?id=1NfUFMC6fbQU8gh0GwGXb1fdEOtkjYgJg" ,
+            "image" : "https://i.ibb.co/FmQmMkK/bmi.png" ,
             "github" : "https://github.com/tlcgeyer/bmiCalculator.git",
             "netlify" : "https://jsbmicalculatorr.netlify.app/"
         },
@@ -96,7 +96,7 @@
             "id" : 6,
             "name" : "Temperature Convertor",
             "description" : "A temperature convertor that converts Celsius to Fahrenheit.",
-            "image" : "https://drive.google.com/uc?id=11FC2CU9SqZQClYruoAi1eNqie1oxq__0" ,
+            "image" : "https://i.ibb.co/bsQMW7M/temp-convertor.png" ,
             "github" : "https://github.com/tlcgeyer/tempConvertor.git",
             "netlify" : "https://jstemp-convertor.netlify.app/"
         }
@@ -130,13 +130,13 @@
             "name" : "Aneeqa",
             "surname" : "Louw",
             "quote" : "Tamlin is one of the most creative out of the box thinkers I know. Her front end skills are unmatched and she continues to impress me. She is light-hearted and an absolute joy to be around. When it comes to web design, there's no limit to her thinking and capabilities" ,
-            "profile" : "https://drive.google.com/uc?id=1iDap5OEq8XiwdWsBH_LJ3gecAon_d_KR"
+            "profile" : "https://i.ibb.co/dQ2JdPw/20231104-135832-720.jpg"
         },
         {
             "name" : "Zubair",
             "surname" : "Moerat",
             "quote" : "I wholeheartedly recommend Tamlin Leigh Geyer for any software development projects. Having worked closely with him, I've witnessed unparalleled technical proficiency and a commitment to delivering high-quality solutions on time." ,
-            "profile" : "https://drive.google.com/uc?id=1_tE3diD5xN4ICoWurN9PPkhoJDW1MsFe"
+            "profile" : "https://i.ibb.co/2tdC2hR/portfolio-720.jpg"
         }
     ]
 }
