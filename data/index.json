@@ -54,27 +54,27 @@
     "projects" : [
         {
             "id" : 1,
+            "name" : "Silent Peak Serenades",
+            "description" : "A store, authentic in Chinese instruments and accessories, perfect for those passionate about traditional music and culture.",
+            "image" : "https://i.ibb.co/WgKGPPz/Screenshot-2024-04-03-145553.png" ,
+            "github" : "https://github.com/tlcgeyer/silentpeakSerenades.git",
+            "netlify" : "https://capstone-tlg.web.app/login"
+        },
+        {
+            "id" : 2,
             "name" : "INKWHIRLWIND",
-            "description" : "My first Javascript E-commerce Manga Store.",
-            "image" : "https://i.ibb.co/dr3NN4h/logo-For-WEbsite.png" ,
+            "description" : "Javascript E-commerce Manga Store.",
+            "image" : "https://i.ibb.co/h7cYH4z/Screenshot-2024-04-03-145353.png" ,
             "github" : "https://github.com/tlcgeyer/js-EOMP.git",
             "netlify" : "https://main--js-eomp-by-tlcg.netlify.app/"
         },
         {
-            "id" : 2,
-            "name" : "Calculate the Area of the Triangle",
-            "description" : "A Javascript calculator used to calculate the area of a triangle.",
-            "image" : "https://i.ibb.co/cCKX92q/area-of-the-triangle.png" ,
-            "github" : "https://github.com/tlcgeyer/js-areaOfTriangle.git",
-            "netlify" : "https://js-calculate-the-area-by-tlg.netlify.app/"
-        },
-        {
             "id" : 3,
-            "name" : "To-do List",
-            "description" : "A Javascript to-do list",
-            "image" : "https://i.ibb.co/yWxxdVF/to-do-list-1.png" ,
-            "github" : "https://github.com/tlcgeyer/to-doList.git",
-            "netlify" : "https://js-to-do-list-by-tlg.netlify.app/"
+            "name" : "PawCare",
+            "description" : "A Collaborative Project based on Dog & Cat Supplies.",
+            "image" : "https://i.ibb.co/rwm1FzZ/Screenshot-2024-04-03-145035.png" ,
+            "github" : "https://github.com/zubairmoerat/Paw_Care.git",
+            "netlify" : "https://pawcare-45bdc.web.app/"
         },
         {
             "id" : 4,
