@@ -105,37 +105,37 @@
         {
             "name" : "Joel",
             "surname" : "Mukanya",
-            "quote" : "Tamlin is a creative, friendly, and well-behaved individual who always prioritizes her work.She excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap, including Git and GitHub." ,
+            "quote" : "Tamlin is very creative, friendly, and well-behaved individual who always prioritizes her work. She excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap, Javascript and including Git and GitHub." ,
             "profile" : "https://i.postimg.cc/T3gT0tsz/joel2.jpg"
         },
         {
             "name" : "Corne",
             "surname" : "Balie",
-            "quote" : "Tamlin's vibrant energy, constant laughter, and warm smiles not only brighten the workplace but also make her an absolute pleasure to collaborate with.Her unwavering positivity and infectious enthusiasm bring out the best in everyone around her. It's a privilege to work alongside such a remarkable colleague and friend.I enthusiastically recommend Tamlin for any team or project fortunate enough to have her." ,
+            "quote" : "Tamlin's vibrant energy, constant laughter, and warm smiles not only brighten the workplace but also make her an absolute pleasure to collaborate with. Her unwavering positivity and infectious enthusiasm bring out the best in everyone around her. It's a privilege to work alongside such a remarkable colleague and friend.I enthusiastically recommend Tamlin for any team or project fortunate enough to have her." ,
             "profile" : "https://i.ibb.co/tzPLXhc/IMG-9879-1.jpg"
         },
         {
             "name" : "Warren",
             "surname" : "Jaftha",
-            "quote" : "Intelligent, daring, and bold . These are the some of the words that I would use to describe Tamlin as a programmer.Just as her code is structured she is also structured as a individual, always following the rules and never backing down from a challenge which is all the qualities that you should look for in a programmer." ,
-            "profile" : "https://i.postimg.cc/vmybNWFc/IMG-8225.jpg"
+            "quote" : "Intelligent, daring, and bold . These are the some of the words that I would use to describe Tamlin as a programmer. Just as her code is structured she is also structured as a individual, always following the rules and never backing down from a challenge which is all the qualities that you should look for in a programmer." ,
+            "profile" : "https://i.ibb.co/ft95v8K/IMG-20240401-WA0006.jpg"
         },
         {
             "name" : "Aakeefah",
             "surname" : "Jones",
-            "quote" : "Bright and extremely creative mind. Lights up the entire room with her friendly personality and eagerness to learn.Exceeds expectations at all times and is a good helping hand whenever you're in need." ,
-            "profile" : "https://i.postimg.cc/LsV2Kn2v/IMG-20231102-WA0023.jpg"
+            "quote" : "Bright and extremely creative mind. Lights up the entire room with her friendly personality and eagerness to learn. Exceeds expectations at all times and is a good helping hand whenever you're in need." ,
+            "profile" : "https://i.ibb.co/LZq5hFR/DSC-0337.jpg"
         },
         {
-            "name" : "Aneeqa",
-            "surname" : "Louw",
+            "name" : "Muttaqeen",
+            "surname" : "Slamat",
             "quote" : "Tamlin is one of the most creative out of the box thinkers I know. Her front end skills are unmatched and she continues to impress me. She is light-hearted and an absolute joy to be around. When it comes to web design, there's no limit to her thinking and capabilities" ,
-            "profile" : "https://i.ibb.co/dQ2JdPw/20231104-135832-720.jpg"
+            "profile" : "https://i.ibb.co/p0ygKw9/1712128779955.jpg"
         },
         {
             "name" : "Zubair",
             "surname" : "Moerat",
-            "quote" : "I wholeheartedly recommend Tamlin Leigh Geyer for any software development projects. Having worked closely with him, I've witnessed unparalleled technical proficiency and a commitment to delivering high-quality solutions on time." ,
+            "quote" : "I wholeheartedly recommend Tamlin Leigh Geyer for any software development projects. Having worked closely with her, I've witnessed unparalleled technical proficiency and a commitment to delivering high-quality solutions on time." ,
             "profile" : "https://i.ibb.co/2tdC2hR/portfolio-720.jpg"
         }
     ]
