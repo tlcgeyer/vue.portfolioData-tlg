@@ -17,7 +17,7 @@
         {
             "id" : 1,
             "language" : "HTML",
-            "level": "Advanced",
+            "level": "Novice",
             "comment" : "Was very easy and simple to learn. Having prior knowledge on the MarkUp language before I actually began my role as an aspiring full-stack developer was also very helpful.",
             "image" : "https://i.ibb.co/3fD9S97/Html.jpg"
         },
@@ -49,6 +49,13 @@
             "comment" : "I do not have much to say about the javascript framework as I am still a beginner that it takes a while to understand the concepts besides other frameworks because the information that will be placed need to be in separate folders and be linked and called from other folders.",
             "image" : "https://i.ibb.co/nC8pckQ/vuee.jpg"
 
+        },
+        {
+             "id" : 6,
+            "language" : "MySQL" ,
+            "level" : "Beginner" ,
+            "comment" : "I do not have much to say about the javascript framework as I am still a beginner that it takes a while to understand the concepts besides other frameworks because the information that will be placed need to be in separate folders and be linked and called from other folders.",
+            "image" : "https://i.ibb.co/PY65BGZ/pngwing-com.png"
         }
     ],
     "projects" : [
