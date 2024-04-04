@@ -85,27 +85,27 @@
         },
         {
             "id" : 4,
-            "name" : "addUp",
-            "description" : "A list of numbers that are added up by comma.",
-            "image" : "https://i.ibb.co/RN6xcvn/add-up-the-numbers.png" ,
-            "github" : "https://github.com/tlcgeyer/js-areaOfTriangle.git",
-            "netlify" : "https://js-add-up-by-tlg.netlify.app/"
+            "name" : "To-do List",
+            "description" : "A to-do list made using JavaScript",
+            "image" : "https://i.ibb.co/B6pH71P/Screenshot-2024-04-04-150540.png" ,
+            "github" : "https://github.com/tlcgeyer/to-doList.git",
+            "netlify" : "https://js-to-do-list-by-tlg.netlify.app"
         },
         {
             "id" : 5,
-            "name" : "Body Mass Index Calculator",
-            "description" : "A bmi calculator that calculates your weight and height, lets you know on a scale how 'healthy' you are.",
-            "image" : "https://i.ibb.co/FmQmMkK/bmi.png" ,
-            "github" : "https://github.com/tlcgeyer/bmiCalculator.git",
-            "netlify" : "https://jsbmicalculatorr.netlify.app/"
+            "name" : "Portfolio",
+            "description" : "My first attempt at making a portfolio using only Bootstrap & Css",
+            "image" : "https://i.ibb.co/6Y0zGWn/Screenshot-2024-04-04-151234.png" ,
+            "github" : "https://github.com/tlcgeyer/bootstrap-Portfolio.git",
+            "netlify" : "https://melodious-lokum-7d54bf.netlify.app/"
         },
         {
             "id" : 6,
-            "name" : "Temperature Convertor",
-            "description" : "A temperature convertor that converts Celsius to Fahrenheit.",
-            "image" : "https://i.ibb.co/bsQMW7M/temp-convertor.png" ,
-            "github" : "https://github.com/tlcgeyer/tempConvertor.git",
-            "netlify" : "https://jstemp-convertor.netlify.app/"
+            "name" : "Keyboard",
+            "description" : "My first attempt at making a keyboard",
+            "image" : "https://i.ibb.co/Gnj46Mq/Screenshot-2024-04-04-154604.png" ,
+            "github" : "https://github.com/tlcgeyer/keyBoard.git",
+            "netlify" : "my-keyboardd.netlify.app"
         }
     ],
     "testimonials" : [
