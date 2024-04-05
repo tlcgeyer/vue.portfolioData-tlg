@@ -70,7 +70,7 @@
         {
             "id" : 2,
             "name" : "INKWHIRLWIND",
-            "description" : "Javascript E-commerce Manga Store.",
+            "description" : "First attempt at a Javascript E-commerce Manga Store, that sells all sorts of anime manga from different genres.",
             "image" : "https://i.ibb.co/h7cYH4z/Screenshot-2024-04-03-145353.png" ,
             "github" : "https://github.com/tlcgeyer/js-EOMP.git",
             "netlify" : "https://main--js-eomp-by-tlcg.netlify.app/"
@@ -78,7 +78,7 @@
         {
             "id" : 3,
             "name" : "PawCare",
-            "description" : "A Collaborative Project based on Dog & Cat Supplies.",
+            "description" : "First Collaborative Project, that is based on Dog & Cat Supplies, that sells on eco-friendly and organic goods.",
             "image" : "https://i.ibb.co/rwm1FzZ/Screenshot-2024-04-03-145035.png" ,
             "github" : "https://github.com/zubairmoerat/Paw_Care.git",
             "netlify" : "https://pawcare-45bdc.web.app/"
@@ -86,7 +86,7 @@
         {
             "id" : 4,
             "name" : "To-do List",
-            "description" : "A to-do list made using JavaScript",
+            "description" : "A to-do list made using JavaScript.",
             "image" : "https://i.ibb.co/B6pH71P/Screenshot-2024-04-04-150540.png" ,
             "github" : "https://github.com/tlcgeyer/to-doList.git",
             "netlify" : "https://js-to-do-list-by-tlg.netlify.app"
@@ -94,7 +94,7 @@
         {
             "id" : 5,
             "name" : "Portfolio",
-            "description" : "My first attempt at making a portfolio using only Bootstrap & Css",
+            "description" : "My first attempt at making a portfolio.",
             "image" : "https://i.ibb.co/6Y0zGWn/Screenshot-2024-04-04-151234.png" ,
             "github" : "https://github.com/tlcgeyer/bootstrap-Portfolio.git",
             "netlify" : "https://melodious-lokum-7d54bf.netlify.app/"
@@ -102,7 +102,7 @@
         {
             "id" : 6,
             "name" : "Keyboard",
-            "description" : "My first attempt at making a keyboard",
+            "description" : "My first attempt at making a keyboard.",
             "image" : "https://i.ibb.co/Gnj46Mq/Screenshot-2024-04-04-154604.png" ,
             "github" : "https://github.com/tlcgeyer/keyBoard.git",
             "netlify" : "my-keyboardd.netlify.app"
