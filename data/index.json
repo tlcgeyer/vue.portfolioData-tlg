@@ -44,7 +44,7 @@
         },
         {
             "id" : 5,
-            "language" : "Vue" ,
+            "language" : "Vue.js" ,
             "level" : "Beginner" ,
             "comment" : "I do not have much to say about the javascript framework as I am still a beginner that it takes a while to understand the concepts besides other frameworks because the information that will be placed need to be in separate folders and be linked and called from other folders.",
             "image" : "https://i.ibb.co/nC8pckQ/vuee.jpg"
@@ -56,6 +56,11 @@
             "level" : "Beginner" ,
             "comment" : "I do not have much to say about the javascript framework as I am still a beginner that it takes a while to understand the concepts besides other frameworks because the information that will be placed need to be in separate folders and be linked and called from other folders.",
             "image" : "https://i.ibb.co/PY65BGZ/pngwing-com.png"
+        },
+        {
+            "id" : 7,
+            "language" : "Node.js",
+            "image" : "https://i.ibb.co/KL3hWRp/nodejs.png"
         }
     ],
     "projects" : [
@@ -103,9 +108,9 @@
             "id" : 6,
             "name" : "Keyboard",
             "description" : "My first attempt at making a keyboard.",
-            "image" : "https://i.ibb.co/Gnj46Mq/Screenshot-2024-04-04-154604.png" ,
+            "image" : "https://i.ibb.co/CHKqHzv/Screenshot-2024-05-03-120336.png" ,
             "github" : "https://github.com/tlcgeyer/keyBoard.git",
-            "netlify" : "my-keyboardd.netlify.app"
+            "netlify" : "https://my-keyboardd.netlify.app/"
         }
     ],
     "testimonials" : [
